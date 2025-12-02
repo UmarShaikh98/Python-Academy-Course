@@ -1,7 +1,4 @@
-# Input a string
-# Print first character
-# Print last character
-# Print middle character (use len() to find middle index)
+
 
 input_string = input("Enter a string: ")
 first_char = input_string[0]
